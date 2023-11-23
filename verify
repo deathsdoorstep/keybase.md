@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am deathsdoorstep on github.
+  * I am btm2top99 (https://keybase.io/btm2top99) on keybase.
+  * I have a public key ASA0278QX-FlLA8nBCVYHwmDYzvchnPsYz76wEfMm2M8vQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012034dbbf105fe1652c0f270425581f0983633bdc8673ec633efac047cc9b633cbd0a",
+      "host": "keybase.io",
+      "kid": "012034dbbf105fe1652c0f270425581f0983633bdc8673ec633efac047cc9b633cbd0a",
+      "uid": "b89e2d5f769305b7a003562e64d8ba19",
+      "username": "btm2top99"
+    },
+    "merkle_root": {
+      "ctime": 1700776476,
+      "hash": "08db1cf9a69b55d6fb1ff5e96cb52a2ea45b7491471ffa13d27167ef663045cc997fc2eef6832afc4be31ac4f25997fe64af70c9a5648c8b131dea87d98c1a89",
+      "hash_meta": "26e496d1fcbe42535c82cbf244112506c33813ca89639a7177192eb5e33b7e9e",
+      "seqno": 25174917
+    },
+    "service": {
+      "entropy": "Jk8H6lHpRI06Lu+ZUhZhDCcM",
+      "name": "github",
+      "username": "deathsdoorstep"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.4"
+  },
+  "ctime": 1700776640,
+  "expire_in": 504576000,
+  "prev": "4d1f4d7b73cb3204cbace577d6abb083f9c1dc026383d9f99251485daea459c3",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASA0278QX-FlLA8nBCVYHwmDYzvchnPsYz76wEfMm2M8vQo](https://keybase.io/btm2top99), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNNu/EF/hZSwPJwQlWB8Jg2M73IZz7GM++sBHzJtjPL0Kp3BheWxvYWTESpcCBcQgTR9Ne3PLMgTLrOV31quwg/nB3AJjg9n5klFIXa6kWcPEIPeLoJKp6Epork+Ie6jnT5x+WAZV2b9pBCI5pWzRv+DxAgHCo3NpZ8RAdF+TeFVvT+MAhZbjsojDB1obRJbc6P8Gge8on0OJnW5EdLcoy+erb35Zc/6mH2Gx1+MVdT/Rbu1bORI++KUiB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIED3ptBt2ldETxZ07NCh5mU8Rffb2z9EHAPMK/sBV0rNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/btm2top99
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id btm2top99
+```
